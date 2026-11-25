@@ -1,8 +1,9 @@
 # GridMaker
-HYML interface for quick custom grids for spoilboards. 
+HTML interface for quick custom grids for laser and CNC spoil boards. 
 
 Precision Grid Generator
-Version 3 — Platform Registration
+
+Version 3 Platform Registration
 
 A standalone, browser-based utility for generating dimensionally accurate, customizable metric grids, concentric targeting patterns, and right-angle registration marks for laser engraving, CNC machining, workpiece alignment, and positioning fixtures.
 
@@ -46,7 +47,8 @@ Registration footprint	170 × 150 mm
 Calibration reference	50 mm, enabled
 
 
-Platform registration
+Platform registration:
+
 Registration marks are L-shaped, 90-degree references designed to help align a printed grid with a movable platform or fixture. Marks can be placed beyond the grid so that they remain visible around the platform, provided the platform does not cover them.
 Coordinate system
 Registration coordinates are measured from the lower-left grid origin (0, 0). X increases to the right and Y increases upward. This convention remains unchanged even when the displayed Y-axis numbering is reversed.
@@ -100,4 +102,5 @@ This is a layout aid, not a certified metrology instrument or machine-control sy
 Contributing
 Suggestions, bug reports and improvements are welcome through GitHub Issues and pull requests. When reporting a dimensional or printing issue, include the browser, operating system, grid settings, output format, print scaling and measured dimensions.
 License
-No license. 
+
+No license, free to all 
